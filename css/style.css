@@ -31,4 +31,11 @@ address{
 /* by assigning auto to the left and right margins of an element, they take up the available horizontal space in the element's container equally – and thus the element gets centered.
 */
 }
-
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+    }
+    .navbar-dark {
+    background-color: #512DA8;
+    }
+    
